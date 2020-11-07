@@ -1,3 +1,11 @@
+## <a href="https://ilyakozak.github.io/web-mini-projects/track-calories">Track Calories</a>
+
+#### <a href="https://github.com/IlyaKozak/web-mini-projects/tree/master/track-calories">github</a>
+
+<a href="https://ilyakozak.github.io/web-mini-projects/track-calories"><img src="track-calories.png" width="500"/></a><br />
+
+---
+
 ## <a href="https://ilyakozak.github.io/web-mini-projects/momentum">Momentum</a>
 
 #### <a href="https://github.com/IlyaKozak/web-mini-projects/tree/master/momentum">github</a>
