@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Quicksand:wght@600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="assets/css/owfont-regular.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js" defer></script>
+    <title>Momentum</title>
+  </head>
+  <body>
+    <div class="main-container">
+      <div class="overlay-container">
+        <div class="wrapper">
+          <button class="changeBGImage" id="changeBGImage"></button>
+          <div class="quote">
+            <button class="btn" id="quote-btn">New quote</button>
+            <figure>
+              <blockquote></blockquote>
+              <figcaption></figcaption>
+            </figure>
+          </div>
+          <div class="meteo">
+            <h2
+              class="meteo-header"
+              contenteditable="true"
+              spellcheck="false"
+            ></h2>
+            <h2 class="country"></h2>
+            <div class="error"></div>
+            <div class="temperature"></div>
+            <i class="owf"></i>
+            <div class="description"></div>
+            <div class="humidity"></div>
+            <div class="wind"></div>
+          </div>
+        </div>
+        <time class="time"></time>
+        <div class="date-greet-wrapper">
+          <time class="date"></time>
+          <h1>
+            <span class="greeting"></span>
+            <span class="name" contenteditable="true" spellcheck="false"></span>
+          </h1>
+        </div>
+        <div class="focus-wrapper">
+          <h2>What Is Your Focus For Today?</h2>
+          <h2 class="focus" contenteditable="true" spellcheck="false"></h2>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

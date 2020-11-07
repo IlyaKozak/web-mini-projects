@@ -1,9 +1,8 @@
-## <a href="https://ilyakozak.github.io/web-mini-projects/loan-calculator">Loan Calculator</a>
+## <a href="https://ilyakozak.github.io/web-mini-projects/momentum">Momentum</a>
 
-#### <a href="https://github.com/IlyaKozak/web-mini-projects/tree/master/loan-calculator">github</a>
+#### <a href="https://github.com/IlyaKozak/web-mini-projects/tree/master/momentum">github</a>
 
-<a href="https://ilyakozak.github.io/web-mini-projects/loan-calculator"><img src="loan-calculator.png" width="300"/></a><br />
-based on https://www.udemy.com/modern-javascript-from-the-beginning/
+<a href="https://ilyakozak.github.io/web-mini-projects/momentum"><img src="momentum.png" width="500"/></a><br />
 
 ---
 
