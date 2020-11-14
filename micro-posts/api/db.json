@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Learn JS",
+      "body": "Just Do It!",
+      "id": 2
+    },
+    {
+      "title": "Post Seven",
+      "body": "This is post seven",
+      "id": 8
+    },
+    {
+      "title": "Post One",
+      "body": "This is post one",
+      "id": 9
+    }
+  ]
+}
