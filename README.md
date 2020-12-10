@@ -2,7 +2,15 @@
 
 #### <a href="https://github.com/IlyaKozak/web-mini-projects/tree/master/english-for-kids">github</a>
 
-<a href="https://ilyakozak.github.io/web-mini-projects/english-for-kids"><img src="english-for-kids.png" width="500"/></a><br />
+<a href="https://ilyakozak.github.io/web-mini-projects/english-for-kids"><img src="english-for-kids.png" width="700"/></a><br />
+
+---
+
+## <a href="https://ilyakozak.github.io/web-mini-projects/track-calories">Track Calories</a>
+
+#### <a href="https://github.com/IlyaKozak/web-mini-projects/tree/master/track-calories">github</a>
+
+<a href="https://ilyakozak.github.io/web-mini-projects/track-calories"><img src="track-calories.png" width="500"/></a><br />
 
 ---
 
