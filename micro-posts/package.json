@@ -18,7 +18,7 @@
     "@babel/preset-env": "^7.4.3",
     "webpack": "^4.16.1",
     "webpack-cli": "^3.0.8",
-    "webpack-dev-server": "^3.1.10"
+    "webpack-dev-server": "^5.2.6"
   },
   "dependencies": {
     "json-server": "^0.16.3"
